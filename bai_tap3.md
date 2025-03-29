@@ -50,9 +50,13 @@
 
 ![image](https://github.com/user-attachments/assets/f1350379-c805-4427-a12f-60e0c8686b1e)
 
-3. TẠO DIAGRAM:
+3. TẠO KHÓA NGOẠI (FK):
 
-![image](https://github.com/user-attachments/assets/4bda51c5-0c09-4215-97d1-5763042afe6f)
+![image](https://github.com/user-attachments/assets/83c63724-009a-41f2-8cae-495b0c02bfef)
+
+4. TẠO DIAGRAM:
+
+![image](https://github.com/user-attachments/assets/08f03173-e482-43fc-8119-5106533c999a)
 
 ## NHẬP DỮ LIỆU DEMO CHO CÁC BẢNG:
 
