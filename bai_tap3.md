@@ -100,7 +100,7 @@
 
 2. KẾT QUẢ THU ĐƯỢC:
 
-![image](https://github.com/user-attachments/assets/aed66984-488e-4904-aa53-bbf83e7b36df)
+![image](https://github.com/user-attachments/assets/e8f128f8-82b0-4a49-b7b9-e79793bc1c32)
 
 3. LỆNH ĐỂ TRUY VẤN:
 
